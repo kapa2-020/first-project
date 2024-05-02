@@ -203,9 +203,9 @@ graph LR;
 Скопировать кодBASH
 
 
-$ mkdir ~/dev/commit-amend-fun
-$ cd ~/dev/commit-amend-fun
-$ git init
+$ mkdir ~/dev/commit-amend-fun  
+$ cd ~/dev/commit-amend-fun  
+$ git init  
 #*пропустим вывод git init* 
 
 
