@@ -256,10 +256,14 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 
 $ git add common.css  
-#*добавили файл common.css в список на коммит как обычно*  
+#*добавили файл common.css в список на коммит как обычно*
+
+
 #*но вместо команды commit -m '...'*  
 #*будет:*  
 $ git commit --amend --no-edit  
+
+
 $ git log --oneline  
 8340eb2 Добавить главную страницу
 
